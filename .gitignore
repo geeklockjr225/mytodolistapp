@@ -1,0 +1,14 @@
+# Ignorer les dépendances
+node_modules/
+
+# Ignorer les fichiers de build
+frontend/build/
+backend/dist/
+
+# Ignorer les variables d'environnement (secrets)
+backend/.env
+frontend/.env
+
+# Autres fichiers inutiles
+.DS_Store
+.vscode/
