@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignorer les fichiers de build
-frontend/build/
+frontend/
 backend/dist/
 
 # Ignorer les variables d'environnement (secrets)
